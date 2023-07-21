@@ -9,4 +9,4 @@ A repo that contains links to projects by members of the Digital Forensics Disco
 | [Nasreddine Bencherchali](https://github.com/nasbench) | [EVTX-ETW-Resources](https://github.com/nasbench/EVTX-ETW-Resources) | A collaborative project with [Andrew Rathbun](https://github.com/AndrewRathbun) to enumerate the various Event Providers within every version of Windows and Windows Server |
 | [Oaker Min](https://github.com/brootware) | [PyRedactKit](https://github.com/brootware/PyRedactKit) | Python CLI tool to redact sensitive data. 🔐📝 |
 | [Nisarg Suthar](https://github.com/nisargsuthar) | [Veritas](https://github.com/nisargsuthar/Veritas) | A hex viewer made for parsing and color coding artifact file structures for visualization using dynamic templates, to make validation process easier. |
-| [Doomdie](https://github.com/1Doomdie1) | [fsread](https://github.com/1Doodmie1/fsread) | A tool designed to extract data from a logical ReFS 3.4 forensic image produced by FTK Imager. |
+| [Doomdie](https://github.com/1Doomdie1) | [fsread](https://github.com/1Doomdie1/fsread) | A tool designed to extract data from a logical ReFS 3.4 forensic image produced by FTK Imager. |
