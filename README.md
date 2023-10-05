@@ -10,3 +10,4 @@ A repo that contains links to projects by members of the Digital Forensics Disco
 | [Oaker Min](https://github.com/brootware) | [PyRedactKit](https://github.com/brootware/PyRedactKit) | Python CLI tool to redact sensitive data. 🔐📝 |
 | [Nisarg Suthar](https://github.com/nisargsuthar) | [Veritas](https://github.com/nisargsuthar/Veritas) | A hex viewer made for parsing and color coding artifact file structures for visualization using dynamic templates, to make validation process easier. |
 | [Doomdie](https://github.com/1Doomdie1) | [ReadFS](https://github.com/1Doomdie1/ReadFS) | A tool designed to extract data from a logical ReFS 3.4 forensic image produced by FTK Imager. |
+| [Adrian Kydland Skaftun](https://github.com/bittib010) | [HexMarksTheSpot](https://github.com/bittib010/HexMarksTheSpot) | A hexviewer with annotations and educational information relating to each sequence parsed - visually appealing with colors and lots of functionality. |
